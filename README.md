@@ -6,3 +6,6 @@ My current interests are on
 - sampling methods
 - causal inference
 - Bayesian statistics
+
+
+https://github.com/MhaoMou/NotesOnStatisticalLearning/blob/main/note1.pdf. In this note, I included `Expectation Maximization`, `Variational Expectation Maximization`, `Reparameterized Gradients through Rejection Sampling` and `Variational Sequential Monte Carlo`

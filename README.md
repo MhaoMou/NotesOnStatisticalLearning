@@ -10,3 +10,4 @@ My current interests are on
 
 https://github.com/MhaoMou/NotesOnStatisticalLearning/blob/main/note1.pdf. In this note, I included `Expectation Maximization`, `Variational Expectation Maximization`, `Reparameterized Gradients through Rejection Sampling` and `Variational Sequential Monte Carlo`
 https://github.com/MhaoMou/NotesOnStatisticalLearning/blob/main/Logic_Temporal_Point_Process.pdf. Logic temporal point processes, inference and applications (under construction)
+https://github.com/MhaoMou/NotesOnStatisticalLearning/blob/main/BS1___Introduction.pdf. Introduction to Bayesian statistics. (under construction, it now contains brief introduction and Monte-Carlo methods)
